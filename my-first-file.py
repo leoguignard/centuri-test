@@ -7,3 +7,7 @@ def foo(bar):
 
 def new_feature(test):
     return
+
+
+def addingtest():
+    return
